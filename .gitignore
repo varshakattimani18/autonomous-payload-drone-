@@ -1,0 +1,43 @@
+# ROS 2 generated files
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+*.txt
+
+# TensorRT / ML model files
+*.engine
+*.onnx
+*.pt
+*.pth
+*.weights
+
+# Runtime/debug output
+detections/
+detlogs/
+logs/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
